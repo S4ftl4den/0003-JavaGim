@@ -11,7 +11,7 @@ public class Game implements Runnable {
 	}
 	
 	
-	//Deklarationenn
+	//Deklarationen
 	public static final String title="Gaim";
 	public static int breite=400;//Hier steckt die groesse hinter
 	public static int hoehe=breite*10/16;
